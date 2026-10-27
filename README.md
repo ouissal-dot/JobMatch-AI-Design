@@ -6,8 +6,8 @@ An intuitive, user-centered interface designed for **JobMatch AI**, a platform b
 ---
 
 ### 🔗 Quick Links
-* **https://www.figma.com/proto/9IzcE5UuNrLpHGHl6giLJu/JobMatch-AI?node-id=0-1&t=a03qFbsOrMKcGXZb-1**
-* **View Figma Source File(https://www.figma.com/design/9IzcE5UuNrLpHGHl6giLJu/JobMatch-AI?node-id=0-1&t=D34XdX76VM3TFIsR-1**
+* **View Figma Prototype https://www.figma.com/proto/9IzcE5UuNrLpHGHl6giLJu/JobMatch-AI?node-id=0-1&t=a03qFbsOrMKcGXZb-1**
+* **View Figma Source File https://www.figma.com/design/9IzcE5UuNrLpHGHl6giLJu/JobMatch-AI?node-id=0-1&t=D34XdX76VM3TFIsR-1**
 
 ---
 
